@@ -1,0 +1,7 @@
+| Situazione | Tipo di apprendimento | Stato delle etichette | Motivazione |
+| :--- | :--- | :--- | :--- |
+| 1. Un sistema che raggruppa gli articoli di un quotidiano per argomento senza che gli argomenti siano stati definiti in anticipo | Non supervisionato | Assenti | I dati non hanno etichette e il sistema li raggruppa da solo in base alle somiglianze. |
+| 2. Un programma che impara a parcheggiare un'automobile in un simulatore ricevendo un punteggio a ogni tentativo | Per rinforzo | Sostituite da un segnale di premio | Non ci sono etichette fisse; il programma impara per tentativi guadagnando punti quando fa bene. |
+| 3. Un sistema che riconosce la specie di un pinguino addestrato sulle 344 osservazioni dell'arcipelago Palmer | Supervisionato | Presenti | I dati contengono già la risposta esatta (la specie) da cui il sistema impara. |
+| 4. Un sistema che segnala le transazioni bancarie insolite senza disporre di un elenco di frodi già accertate | Non supervisionato | Assenti | Mancano esempi etichettati di frode, quindi il sistema individua i casi anomali in autonomia. |
+| 5. Un sistema che stima il tempo di percorrenza di un tragitto a partire dallo storico dei tragitti già compiuti e cronometrati | Supervisionato | Presenti | Usa dati passati in cui il tempo di percorrenza reale è già noto e fa da etichetta. |
