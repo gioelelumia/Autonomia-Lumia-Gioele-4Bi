@@ -1,3 +1,5 @@
+# Tipi di Apprendimento
+
 | Situazione | Tipo di apprendimento | Stato delle etichette | Motivazione |
 | :--- | :--- | :--- | :--- |
 | 1. Un sistema che raggruppa gli articoli di un quotidiano per argomento senza che gli argomenti siano stati definiti in anticipo | Non supervisionato | Assenti | I dati non hanno etichette e il sistema li raggruppa da solo in base alle somiglianze. |

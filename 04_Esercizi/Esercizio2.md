@@ -1,3 +1,5 @@
+# Classificazione e Regressione
+
 | Problema | Categoria | Etichetta | Motivazione |
 | :--- | :--- | :--- | :--- |
 | 1. Prevedere il voto finale in decimi di uno studente a partire dai voti del primo quadrimestre | Regressione | voto_finale | Il valore da prevedere è una quantità numerica continua. |

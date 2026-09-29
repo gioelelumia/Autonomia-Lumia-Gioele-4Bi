@@ -1,4 +1,4 @@
-# Tabella dei Sistemi IA
+## Tabella dei Sistemi IA
 
 | Sistema | Decisione | Dati in Ingresso | Tipo di Apprendimento | Se sbaglia / Conseguenza |
 | :--- | :--- | :--- | :--- | :--- |
