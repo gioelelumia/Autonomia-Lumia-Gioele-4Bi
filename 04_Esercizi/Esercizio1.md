@@ -1,19 +1,19 @@
 ## **Istanze e attributi**
 
-> * **Numero di istanze:** 344  
-> * **Numero di attributi:** 7
+* **Numero di istanze:** 344  
+* **Numero di attributi:** 7
 
 ## **Nomi delle colonne**
 
 Il dataset è composto dai seguenti attributi:
 
-> * species  
-> * island  
-> * bill_length_mm 
-> * bill_depth_mm
-> * flipper_length_mm
-> * body_mass_g
-> * sex
+* species  
+* island  
+* bill_length_mm 
+* bill_depth_mm
+* flipper_length_mm
+* body_mass_g
+* sex
 
 ## **Analisi delle domande di apprendimento**
 
